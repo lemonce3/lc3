@@ -1,0 +1,30 @@
+{
+  "name": "@lemonce3/lc3-browser-launcher",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "lichaozhy <lichao@or-change.cn>",
+  "homepage": "https://github.com/lemonce3/lc3#readme",
+  "license": "MIT",
+  "main": "lib/lc3-browser-launcher.js",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemonce3/lc3.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/lemonce3/lc3/issues"
+  },
+  "dependencies": {
+    "@or-change/duck": "^0.4.0",
+    "cross-spawn": "^7.0.0",
+    "debug": "^4.1.1"
+  }
+}

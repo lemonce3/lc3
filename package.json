@@ -1,0 +1,10 @@
+{
+  "name": "@lemonce3/lc3",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap --hoist"
+  }
+}
